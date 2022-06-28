@@ -1,0 +1,21 @@
+{
+  "name": "@widerplan/zxcvbn-language-cy",
+  "version": "1.0.0",
+  "description": "Welsh language pack for zxcvbn-ts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiddivouchers/zxcvbn-language-cy.git"
+  },
+  "keywords": [
+    "zxcvbn",
+    "zxcvbn-ts",
+    "welsh",
+    "cy",
+    "wales"
+  ],
+  "license": "MIT"
+}
