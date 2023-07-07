@@ -1,4 +1,4 @@
-import * as dictionaryData from './dictionary.json'
+import * as dictionaryData from './commonWords.json'
 import * as femaleFirstnames from './femaleFirstnames.json'
 import * as maleFirstnames from './maleFirstnames.json'
 import * as lastnames from './lastnames.json'
