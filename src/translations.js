@@ -1,4 +1,4 @@
-export default {
+export const translations = {
   warnings: {
     straightRow: 'Mae\'n hawdd dyfalu rhesi syth o allweddi ar eich bysellfwrdd.',
     keyPattern: 'Mae patrymau bysellfwrdd byr yn hawdd i\'w dyfalu.',

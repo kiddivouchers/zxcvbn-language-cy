@@ -1,11 +1,11 @@
-import * as dictionaryData from './dictionary.json'
-import * as femaleFirstnames from './femaleFirstnames.json'
-import * as maleFirstnames from './maleFirstnames.json'
-import * as lastnames from './lastnames.json'
-import * as translations from './translations'
+import commonWords from './commonWords.json'
+import femaleFirstnames from './femaleFirstnames.json'
+import maleFirstnames from './maleFirstnames.json'
+import lastnames from './lastnames.json'
+import {translations} from './translations'
 
 const dictionary = {
-  dictionaryData,
+  commonWords,
   femaleFirstnames,
   maleFirstnames,
   lastnames,
